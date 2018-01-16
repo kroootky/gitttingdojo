@@ -6,3 +6,6 @@ def joke():
 
 def introduce():
     print("ala ma kota")
+
+def shout():
+    print("costam")
